@@ -1,0 +1,31 @@
+[
+{
+    "signal": "SOURCE2",
+    "value_type": "String",
+    "value": "HIGH"
+  },
+  {
+    "signal": "SOURCE3",
+    "value_type": "Datetime",
+    "value": "2020-06-13 22:40:10"
+  },
+  {
+    "signal": "SOURCE2",
+    "value_type": "String",
+    "value": "LOW"
+  },
+  {
+    "signal": "SOURCE1",
+    "value_type": "Integer",
+    "value": "30"
+  },
+  {
+    "signal": "SOURCE1",
+    "value_type": "Integer",
+    "value": "15"
+  },{
+    "signal": "SOURCE4",
+    "value_type": "Datetime",
+    "value": "2019-10-13 22:40:10"
+  }
+  ]

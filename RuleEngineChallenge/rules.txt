@@ -1,0 +1,5 @@
+SOURCE1 value should be greater_than 20
+SOURCE1 value should be less_than 100
+SOURCE2 value should be equal_to LOW
+SOURCE3 value should be in future
+SOURCE4 value should be in past

@@ -1,0 +1,7 @@
+c:\Desktop\RuleEngineChallenge\RuleEngineChallenge\bin\Debug\RuleEngineChallenge.exe.config
+c:\Desktop\RuleEngineChallenge\RuleEngineChallenge\bin\Debug\RuleEngineChallenge.exe
+c:\Desktop\RuleEngineChallenge\RuleEngineChallenge\bin\Debug\RuleEngineChallenge.pdb
+c:\Desktop\RuleEngineChallenge\RuleEngineChallenge\bin\Debug\Newtonsoft.Json.dll
+c:\Desktop\RuleEngineChallenge\RuleEngineChallenge\obj\Debug\RuleEngineChallenge.csprojResolveAssemblyReference.cache
+c:\Desktop\RuleEngineChallenge\RuleEngineChallenge\obj\Debug\RuleEngineChallenge.exe
+c:\Desktop\RuleEngineChallenge\RuleEngineChallenge\obj\Debug\RuleEngineChallenge.pdb
